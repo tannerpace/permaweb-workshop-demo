@@ -5,7 +5,7 @@ This template should help get you started developing with Svelte in Vite.
 ## Recommended IDE Setup
 [WORK SHOP NOTES](https://workshop_rakis.g8way.io/)
 [CONTRACT EXPLORER](https://contract-explorer.arweave.dev/#/)
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
+
 
 ## Need an official Svelte framework?
 
