@@ -3,7 +3,7 @@
 This template should help get you started developing with Svelte in Vite.
 
 ## Recommended IDE Setup
-
+[CONTRACT EXPLORER](https://contract-explorer.arweave.dev/#/)
 [VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 
 ## Need an official Svelte framework?
